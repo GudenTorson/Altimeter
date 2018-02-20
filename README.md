@@ -1,4 +1,4 @@
-# Altimeter ![logo](icon)
+# Altimeter ![logo](Altimeter/icon.png)
 Altimeter app for Android made in 
 [Thunkable](https://thunkable.com/#/).
 
